@@ -1,0 +1,16 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "eslint.validate": [
+    "javascript",
+    "json",
+    "json5",
+    "jsonc",
+    "markdown",
+    "typescript",
+    "yaml"
+  ]
+}
